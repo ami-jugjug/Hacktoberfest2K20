@@ -1,2 +1,2 @@
 # Hacktoberfest2K20
-Create your pull request for hacktober fest 2020
+Create your pull request for hacktober festival 2020
